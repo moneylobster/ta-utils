@@ -1,4 +1,4 @@
-## OCR grade checker
+## OCR grade transcriber
 
 ### Prerequisites
 
